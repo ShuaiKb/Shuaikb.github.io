@@ -133,8 +133,8 @@
         title: "blog",
         subtitle: "latest blog",
       },
-      blog: "https://segmentfault.com/blog/manerfan",
-      rss: "https://segmentfault.com/feeds/blog/manerfan",
+      blog: "https://segmentfault.com/blog/Shuaikb",
+      rss: "https://segmentfault.com/feeds/blog/Shuaikb",
     },
   ],
 }
