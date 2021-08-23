@@ -54,7 +54,7 @@
       },
       // key - value 数量及内容完全自定义，链接自动识别
       keys: {
-        "主页": "http://cv.manerfan.com",
+        "主页": "https://shuaikb.cn/",
         "gite": "https://gitee.com/Shuaikb",
         "专栏": "https://segmentfault.com/blog/Shuaikb",
         "公众号": "Kb后山"
